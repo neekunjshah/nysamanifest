@@ -1,0 +1,26 @@
+{
+  "name": "Nysa Order Management",
+  "short_name": "Nysa",
+  "theme_color": "#FF6600",
+  "background_color": "#212C3B",
+  "display": "minimal-ui",
+  "Scope": "/",
+  "start_url": "https://order.nysaindia.com/#!/login",
+  "icons": [
+    {
+      "src": "https://drive.google.com/uc?id=1S2MDtqwTYKH0DZP1cFM7Xh_vXE_x4JNL",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://drive.google.com/uc?id=14ssPbSblGXEAzBEBYoST1UXJpIoKiJyF",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://drive.google.com/uc?id=12PSZFFdrAgSY2iDXx3t9vcWoIYh00mr-",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
